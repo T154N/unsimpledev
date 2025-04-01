@@ -60,7 +60,7 @@
 
 ## Projects
 
-<a href="https://github.com/SantiagoArias/Project1">
+<a href="[https://github.com/SantiagoArias/Project1](https://github.com/T154N/Seminario)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SantiagoArias&repo=Project1&theme=tokyonight" />
 </a>  
 
